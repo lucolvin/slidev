@@ -68,32 +68,28 @@ layout: default
 
 # Project Achievements 🚀
 
-<v-clicks>
-
 <div class="mt-6 grid grid-cols-2 gap-4">
-  <div class="p-4 border rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300">
-    <h3 class="font-bold text-blue-500">Bulletins Application Redesign</h3>
+  <div v-click class="p-4 border rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300">
+    <h3 class="font-bold text-blue-500">Bulletins Redesign</h3>
     <p class="text-sm mt-2">Completely revamped search functionality and UI with new filtering, sorting, and view options</p>
     <img src="https://utfs.io/f/LF1QrFGZgDsb0iqr1XSOokM2sUqGjyagDWSpfQL4O6nhmX9P" alt="Bulletins Application" class="mt-4 rounded-lg shadow-lg">
   </div>
 
-  <div class="p-4 border rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300">
+  <div v-click class="p-4 border rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300">
     <h3 class="font-bold text-green-500">Software Releases</h3>
-    <p class="text-sm mt-2">Led successfull releases of Tally, Checkout Management, and Bulletins as well as completing significant changes to the library website</p>
+    <p class="text-sm mt-2">Led successful releases for Tally, Checkout Management, and Bulletins as well as completing significant changes to the library website</p>
   </div>
 
-  <div class="p-4 border rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300">
+  <div v-click class="p-4 border rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300">
     <h3 class="font-bold text-purple-500">Database Architecture</h3>
     <p class="text-sm mt-2">Implemented gc_users migration, last edited tracking, and restructured relationships</p>
   </div>
 
-  <div class="p-4 border rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300">
+  <div v-click class="p-4 border rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300">
     <h3 class="font-bold text-orange-500">Mobile Responsiveness</h3>
     <p class="text-sm mt-2">Enhanced CSS and interface scaling across applications for better mobile experience while keeping functionality intact on desktop</p>
   </div>
 </div>
-
-</v-clicks>
 
 ---
 layout: center
@@ -102,7 +98,7 @@ class: text-center
 
 # Key Takeaways 🎯
 
-<div class="grid grid-cols-2 gap-8 mt-8">
+<div class="grid grid-cols-3 gap-8 mt-8">
   <div v-click class="flex flex-col items-center">
     <div class="text-3xl mb-4 animate-bounce">🗄️</div>
     <h3 class="font-bold mb-2">Database Design</h3>
@@ -114,7 +110,15 @@ class: text-center
     <div class="text-3xl mb-4 animate-bounce">📱</div>
     <h3 class="font-bold mb-2">Responsive Design</h3>
     <p class="text-sm opacity-75">
-        Responsive design principles through CSS improvements across multiple applications and device types.    </p>
+        Responsive design principles through CSS improvements across multiple applications and device types.
+    </p>
+  </div>
+  <div v-click class="flex flex-col items-center">
+    <div class="text-3xl mb-4 animate-bounce">📝</div>
+    <h3 class="font-bold mb-2">Documentation Skills</h3>
+    <p class="text-sm opacity-75">
+      Improved my documentation skills by writing clear and concise training documentation for new developer onboarding.
+    </p>
   </div>
 </div>
 
