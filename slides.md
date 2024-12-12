@@ -21,6 +21,10 @@ Internship
   </a>
 </div>
 
+::notes::
+this is a test for notes
+:::
+
 ---
 layout: two-cols
 ---
