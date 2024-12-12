@@ -21,12 +21,8 @@ Internship
   </a>
 </div>
 
-```ts
-console.log('Hello, World!')
-```
-
 <!--
-This is _another_ note
+This is a _test_ note to show how a presenter note can be created
 -->
 
 ---
