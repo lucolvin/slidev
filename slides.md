@@ -25,6 +25,10 @@ Internship
 this is a test for notes
 :::
 
+<!--
+This is _another_ note
+-->
+
 ---
 layout: two-cols
 ---
