@@ -21,9 +21,9 @@ Internship
   </a>
 </div>
 
-::notes::
-this is a test for notes
-:::
+```ts
+console.log('Hello, World!')
+```
 
 <!--
 This is _another_ note
