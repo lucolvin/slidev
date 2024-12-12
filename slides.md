@@ -11,7 +11,7 @@ css: unocss
 
 # Summer 2024
 <div class="pt-12 text-xl text-gray-400">
-Internship
+Internship test
 </div>
 
 <div class="abs-br m-6 flex gap-2">
